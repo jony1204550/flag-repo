@@ -1,0 +1,41 @@
+h1{
+    color: red;
+}
+
+#main-flag{
+    width: 600px;
+    height: 300px;
+    background-color: green;
+    
+    
+}
+.red-circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: red;
+    
+
+}
+
+.circle-flex{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flag-bamboo{
+    
+    width: 20px;
+    height: 800px;
+    background-color: #D6B450;
+    
+}
+#flag{
+    display: flex;
+}
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
